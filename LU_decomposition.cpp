@@ -11,8 +11,8 @@
      .   .       .
     Ln1 Ln2 ... Unn
 
-  Where U** represents entry in upper matrix
-  and   L** represents entry in lower matrix
+  Where U** represents entry in upper triangular matrix
+  and   L** represents entry in lower triangular matrix
 */
 
 #include<stdio.h>
